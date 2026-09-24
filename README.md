@@ -8,7 +8,7 @@ Dokumen ini disusun untuk memenuhi **Laporan TUGAS Mata Kuliah Kewirausahaan (B)
 
 ## Informasi Akademik
 - **Dosen Pengampu**: Adi Wahyu Pribadi, S.Si., M.Kom  
-- **Instansi**: Universitas Pancasila, Fakultas Teknik, S1 Teknik Informatika  Universitas Pancasila – Fakultas Teknik – Program Studi Teknik Informatika
+- **Instansi**: Universitas Pancasila, Fakultas Teknik, S1 Teknik Informatika  
 - **Tahun**: 2026  
 
 
