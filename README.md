@@ -23,14 +23,14 @@
 
 | Sub-CPMK | Cakupan dalam Laporan |
 |----|----|
-| **Sub-CPMK 1** | Identifikasi kondisi dan karakteristik usaha berdasarkan hasil kuesioner. |
-| **Sub-CPMK 2** | Pengumpulan informasi mengenai produk, pelanggan, proses penjualan, dan kegiatan operasional usaha. |
-| **Sub-CPMK 3** | Identifikasi permasalahan yang dihadapi pemilik usaha, khususnya permasalahan ketersediaan dan distribusi air. |
-| **Sub-CPMK 4** | Analisis kebutuhan berdasarkan permasalahan yang ditemukan dari hasil kuesioner. |
-| **Sub-CPMK 5** | Perumusan kemungkinan solusi berbasis Teknologi Informasi. |
-| **Sub-CPMK 7** | Penyusunan rekomendasi pengembangan sistem monitoring menggunakan sensor, mikrokontroler, database, dan dashboard. |
-| **Sub-CPMK 8** | Dokumentasi dan penyajian hasil kuesioner dalam bentuk laporan dan dokumentasi GitHub. |
-| **Sub-CPMK 9** | Refleksi terhadap peran mahasiswa Teknik Informatika dalam mengidentifikasi permasalahan nyata dan merancang solusi berbasis teknologi. |
+| **Sub-CPMK 1**     | Identifikasi kondisi dan karakteristik usaha berdasarkan hasil kuesioner. |
+| **Sub-CPMK 2**     | Pengumpulan informasi mengenai produk, pelanggan, proses penjualan, dan kegiatan operasional usaha. |
+| **Sub-CPMK 3**     | Identifikasi permasalahan yang dihadapi pemilik usaha, khususnya permasalahan ketersediaan dan distribusi air. |
+| **Sub-CPMK 4**     | Analisis kebutuhan berdasarkan permasalahan yang ditemukan dari hasil kuesioner. |
+| **Sub-CPMK 5**     | Perumusan kemungkinan solusi berbasis Teknologi Informasi. |
+| **Sub-CPMK 7**     | Penyusunan rekomendasi pengembangan sistem monitoring menggunakan sensor, mikrokontroler, database, dan dashboard. |
+| **Sub-CPMK 8**     | Dokumentasi dan penyajian hasil kuesioner dalam bentuk laporan dan dokumentasi GitHub. |
+| **Sub-CPMK 9**     | Refleksi terhadap peran mahasiswa Teknik Informatika dalam mengidentifikasi permasalahan nyata dan merancang solusi berbasis teknologi. |
 
 > **Catatan:** Pemetaan Sub-CPMK di atas perlu disesuaikan kembali dengan definisi Sub-CPMK pada RPS atau instruksi resmi dosen apabila terdapat ketentuan khusus.
 
