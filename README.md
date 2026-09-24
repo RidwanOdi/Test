@@ -39,7 +39,7 @@ Dokumen ini disusun untuk memenuhi **Laporan TUGAS Mata Kuliah Kewirausahaan (B)
 
 ---
 
-## 1. Pendahuluan
+## 1. PENDAHULUAN
 Kuesioner ini dilakukan untuk mengetahui kondisi usaha dan permasalahan yang dihadapi oleh pemilik usaha kantin di lingkungan Fakultas Ekonomi dan Bisnis Universitas Pancasila.
 
 Kegiatan ini dilakukan oleh mahasiswa Program Studi Teknik Informatika, Fakultas Teknik, Universitas Pancasila. Oleh karena itu, hasil kuesioner tidak hanya digunakan untuk mengetahui kondisi usaha kantin, tetapi juga untuk mengidentifikasi permasalahan yang dapat dikembangkan menjadi solusi berbasis Teknologi Informasi.
@@ -59,7 +59,7 @@ Dari berbagai permasalahan tersebut, ketersediaan dan distribusi air menjadi sal
 
 ---
 
-## 2. Tujuan 
+## 2. TUJUAN
 
 Dalam menganalisis suatu kasus etika profesi, penting untuk membedakan antara fakta yang telah dibuktikan melalui investigasi resmi dengan informasi yang masih berupa dugaan atau sedang diproses secara hukum.
 
@@ -91,7 +91,7 @@ Secara umum, proses penjualan pada usaha-usaha tersebut dapat berjalan dengan ba
 
 ---
 
-## 4. Analisis Permasalahan Air
+## 4. ANALISIS PERMASALAHAN AIR
 
 Berdasarkan jawaban pemilik usaha, permasalahan air yang ditemukan meliputi:
 
@@ -114,7 +114,7 @@ Apabila debit air terlalu kecil, kegiatan mencuci dan membersihkan peralatan dap
 
 ---
 
-## 5. Kemungkinan Penyebab Permasalahan
+## 5. KEMUNGKINAN PENYEBAB PERMASALAHAN
 ### 5.1 Kapasitas Tangki Air Tidak Mencukupi
 Salah satu kemungkinan adalah kapasitas penampungan air yang tersedia belum mencukupi kebutuhan seluruh kantin.
 
@@ -139,88 +139,88 @@ Terdapat dugaan bahwa kondisi tersebut dapat terjadi ketika lebih dari sekitar l
 Namun, angka tersebut masih merupakan informasi berdasarkan pengalaman pemilik usaha, bukan hasil pengukuran teknis. Oleh karena itu, diperlukan pengukuran langsung untuk memastikan penyebabnya.
 
 ---
+## 6.  POTENSI SOLUSI BERBASIS TEKNOLOGI INFORMASI 
 
-### 5.2 Nilai Kepancasilaan Universitas Pancasila
+Sebagai mahasiswa Teknik Informatika, permasalahan tersebut dapat dikembangkan menjadi sebuah konsep Sistem Monitoring Ketersediaan dan Distribusi Air Kantin.
 
-| Nilai | Refleksi terhadap Kasus |
-|--------|--------------------------|
-| **Integritas** | Tim engineering dan manajemen Boeing tidak konsisten antara pengetahuan teknis mengenai kelemahan MCAS dengan informasi yang diberikan kepada regulator maupun pilot. |
-| **Kepedulian** | Keselamatan pengguna akhir kurang diprioritaskan dibanding target peluncuran produk. |
-| **Harmonis** | Hubungan antara engineer, manajemen, dan regulator tidak berjalan secara seimbang sehingga mekanisme pengawasan melemah. |
-| **Kolaboratif** | Kolaborasi Boeing dan FAA melalui skema ODA menimbulkan konflik kepentingan yang mengurangi independensi pengawasan. |
-| **Profesionalisme** | Prioritas terhadap jadwal produksi dibanding evaluasi teknis menunjukkan pelanggaran terhadap profesionalisme keinsinyuran. |
+Sistem ini bertujuan untuk membantu pengelola mengetahui kondisi air secara lebih mudah dan terukur.
 
----
+Sistem dapat memantau beberapa informasi, seperti:
 
-## 6.  KODE ETIK PROFESI
+Volume air di dalam tangki.
+Status pompa.
+Debit air.
+Kondisi distribusi air.
+Waktu penggunaan air.
+Peringatan ketika volume air rendah.
 
-Kasus Boeing 737 MAX MCAS berkaitan dengan kegagalan perangkat lunak pada sistem keselamatan penerbangan. Oleh karena itu, analisis menggunakan **ACM/IEEE-CS Software Engineering Code of Ethics**, **IEEE Code of Ethics**, serta **Kode Etik Insinyur Indonesia (PII)** sebagai pembanding.
-
-### 6.1 ACM/IEEE-CS Software Engineering Code of Ethics (1997)
-
-### Prinsip 1 – Public
-Software engineer wajib mengutamakan kepentingan publik. Perangkat lunak hanya boleh disetujui apabila telah memenuhi standar keamanan, lolos pengujian yang memadai, serta tidak membahayakan masyarakat. MCAS dinilai belum memenuhi prinsip tersebut karena dirilis tanpa validasi sensor yang memadai.
-
-### Prinsip 6 – Profession
-Insinyur wajib menjaga integritas profesi, menjunjung standar profesional, serta melaporkan risiko yang diketahui. Dalam kasus MCAS, tekanan bisnis diduga menghambat penyampaian informasi mengenai risiko sistem.
-
-### 6.2 IEEE Code of Ethics
-
-IEEE mewajibkan setiap anggotanya untuk mengutamakan keselamatan, kesehatan, dan kesejahteraan masyarakat. Keputusan untuk tidak mengungkapkan seluruh informasi mengenai MCAS kepada regulator maupun pilot bertentangan dengan prinsip tersebut.
-
-### 6.3 Kode Etik Insinyur Indonesia (PII)
-
-Sebagai pembanding nasional, Kode Etik Insinyur Indonesia menekankan bahwa insinyur harus:
-
-- Mengutamakan keselamatan, kesehatan, dan kesejahteraan masyarakat.
-- Menjunjung keluhuran budi.
-- Menyampaikan pendapat secara objektif berdasarkan fakta.
-
-Walaupun tidak mengikat Boeing secara hukum, prinsip-prinsip tersebut menunjukkan bahwa penyembunyian informasi teknis mengenai MCAS bertentangan dengan etika profesi keinsinyuran.
-
-### Kesimpulan
-
-Baik ACM/IEEE maupun PII sama-sama menempatkan keselamatan publik sebagai prioritas utama. Prinsip tersebut dinilai tidak terpenuhi dalam pengembangan dan implementasi MCAS.
+Dengan adanya sistem monitoring, kondisi air tidak hanya diketahui berdasarkan perkiraan atau pemeriksaan manual, tetapi dapat dipantau berdasarkan data dari sensor.
 
 ---
 
-## 7. ANALISIS REGULASI & HUKUM
+## 7. HUBUNGAN DENGAN TEKNIK INFORMATIKA
+Konsep sistem monitoring tersebut dapat dikembangkan menggunakan beberapa teknologi yang berkaitan dengan Teknik Informatika.
 
-### 7.1 Kerangka Hukum Amerika Serikat
+### 7.1 Internet of Things (IoT)
+Sensor dapat digunakan untuk membaca kondisi air secara langsung.
 
-Regulasi utama yang berkaitan dengan kasus ini meliputi:
+Contohnya adalah sensor yang digunakan untuk mengetahui ketinggian atau volume air di dalam tangki.
 
-- **14 CFR Part 25**, yaitu standar sertifikasi pesawat kategori transport.
-- **Organization Designation Authorization (ODA)**, yaitu kewenangan Boeing melakukan sebagian proses sertifikasi atas nama FAA.
-- **Deferred Prosecution Agreement (DPA) Tahun 2021**, di mana Boeing membayar denda sebesar **US$243,6 juta** dan dana kompensasi **US$500 juta** bagi keluarga korban.
-- Pada tahun 2024–2025, Department of Justice (DOJ) kembali mengevaluasi kepatuhan Boeing terhadap kesepakatan tersebut.
+### 7.2 Mikrokontroler
+Mikrokontroler dapat digunakan sebagai penghubung antara sensor dengan sistem.
 
-### 7.2 Kerangka Hukum Indonesia
+Mikrokontroler menerima data dari sensor kemudian mengirimkan data tersebut ke sistem monitoring.
 
-Regulasi yang berkaitan dengan kecelakaan Lion Air JT610 meliputi:
+### 7.3 Database
+Data yang diperoleh dapat disimpan ke dalam database.
 
-- **UU No. 1 Tahun 2009 tentang Penerbangan**, yang mengatur kelaikudaraan, tanggung jawab operator, dan investigasi oleh KNKT.
-- **UU No. 11 Tahun 2008 jo. UU No. 19 Tahun 2016 tentang ITE**, sebagai rujukan mengenai keandalan sistem elektronik.
-- **UU No. 27 Tahun 2022 tentang Pelindungan Data Pribadi**, yang tidak berkaitan langsung dengan kasus karena tidak melibatkan penyalahgunaan data pribadi.
+Contohnya:
 
-### 7.3 Tanggung Jawab Hukum dan Moral
+Volume air.
+Debit air.
+Waktu pengukuran.
+Status pompa.
+Kondisi distribusi.
 
-| Aspek | Tanggung Jawab Hukum | Tanggung Jawab Moral |
-|--------|----------------------|----------------------|
-| **Dasar** | Putusan pengadilan dan regulator. | Prinsip etika profesi. |
-| **Pihak Bertanggung Jawab** | Boeing dan pihak yang terbukti melanggar hukum. | Manajemen, engineer, regulator, dan seluruh pihak yang berkontribusi terhadap kegagalan. |
-| **Status** | Proses hukum masih berkembang. | Dapat dinilai tanpa menunggu putusan hukum. |
+Data tersebut kemudian dapat digunakan untuk melihat riwayat penggunaan air.
 
-### Catatan
+### 7.4 Dashboard
+Data dapat ditampilkan melalui dashboard agar pengelola dapat melihat kondisi air dengan lebih mudah.
 
-- Proses hukum Boeing masih terus berkembang sehingga beberapa aspek hukum belum berkekuatan hukum tetap.
-- Penilaian moral dapat dilakukan berdasarkan fakta yang telah terverifikasi tanpa harus menunggu putusan pengadilan.
+Contohnya:
+
+Volume Air: 65%
+Status Pompa: Aktif
+Debit Air: Normal
+Distribusi: Normal
+
+### 7.5 Sistem Notifikasi
+Sistem juga dapat memberikan peringatan ketika kondisi tertentu terjadi.
+
+Contohnya:
+
+PERINGATAN: Volume air tangki rendah.
+
+atau:
+
+PERINGATAN: Debit air mengalami penurunan.
+
 ---
 
-## 8. CHECKPOINT INTEGRITAS & ANTI-KORUPSI
+## 8. REKOMENDASI AWAL
+Sebelum langsung membuat sistem, diperlukan pengumpulan data dan pemeriksaan kondisi fasilitas air.
 
-Integritas merupakan salah satu nilai utama dalam profesi teknologi informasi dan rekayasa perangkat lunak. Dalam sistem yang bersifat *safety-critical* seperti Boeing 737 MAX, setiap keputusan teknis harus mengutamakan keselamatan pengguna. Kasus Boeing 737 MAX menunjukkan bahwa lemahnya integritas organisasi dapat berdampak pada hilangnya kepercayaan publik dan meningkatnya risiko terhadap keselamatan penerbangan.
-
+Data yang sebaiknya dikumpulkan adalah:
+| Data                        | Tujuan        |
+|-----------------------------|---------------|
+| Kapasitas tangki            | Mengetahui jumlah air maksimum yang dapat ditampung. |
+| Volume air                  | Mengetahui jumlah air yang tersedia. |
+| Debit air                   | Mengetahui jumlah air yang keluar. |
+| Tekanan air                 | Mengetahui kondisi distribusi. |
+| Kapasitas pompa             | Mengetahui kemampuan pomp. |
+| Jumlah kantin               | Mengetahui jumlah pengguna air. |
+| Data                        | Tujuan        |
+| Data                        | Tujuan        |
 ### 8.1 Penyalahgunaan Kepercayaan
 
 Masyarakat, maskapai penerbangan, dan regulator memberikan kepercayaan kepada Boeing sebagai produsen pesawat yang mampu memenuhi standar keselamatan internasional. Namun, hasil investigasi menunjukkan bahwa sistem **Maneuvering Characteristics Augmentation System (MCAS)** masih memiliki kelemahan, seperti hanya mengandalkan satu sensor *Angle of Attack* (AoA) sebagai dasar pengambilan keputusan. Kondisi tersebut meningkatkan risiko kegagalan apabila sensor mengalami kesalahan pembacaan dan menunjukkan bahwa kepercayaan yang diberikan kepada perusahaan tidak sepenuhnya diimbangi dengan penerapan prinsip keselamatan yang optimal.
