@@ -82,66 +82,40 @@ Kasus Boeing 737 MAX melibatkan berbagai pihak dengan kepentingan, peran, dampak
 |No | Usaha                     | Lama Usaha |  Pelanggan Utama | Permasalahan yang Ditemukan |
 |---|------------------------------------------|------------|---------------------------|------------|
 |1. | Kantin Risol Sovina             | ± 2 tahun | Mahasiswa | Kekurangan air keran untuk mencuci piring dan keperluan lainnya.|
-|2. |Warung Makan Berkah              | ± 5 tahun | Mahasiswa dosen, dan karyawan | Air keran kurang/debit air kecil.| 
-|3. | Federal Aviation Administration (FAA)    | Bertugas mengawasi dan memberikan sertifikasi kelayakan pesawat sebelum digunakan secara komersial.| Mendapat kritik karena dianggap kurang teliti dalam proses pengawasan dan sertifikasi Boeing 737 MAX.| TTinggi. Memiliki kewenangan untuk menyetujui atau menolak sertifikasi pesawat, sehingga berperan penting dalam menjamin keselamatan penerbangan.|
-|4. | Pilot dan Maskapai (Lion Air & Ethiopian)| Mengoperasikan pesawat dan menggunakan sistem MCAS dalam penerbangan sehari-hari.| Kehilangan kru dan pesawat, mengalami kerugian finansial, serta menurunnya kepercayaan masyarakat terhadap maskapai.| Rendah. Bergantung pada informasi dan pelatihan yang diberikan oleh Boeing serta regulator mengenai sistem pesawat.|
-|5. | Penumpang & Masyarakat                   | Menggunakan layanan penerbangan sebagai konsumen akhir.| Menjadi pihak yang paling dirugikan, dengan total 346 korban jiwa serta dampak psikologis bagi keluarga korban.| Sangat Rendah. Tidak memiliki kendali terhadap desain, pengembangan, maupun pengoperasian sistem pesawat.|
+|2. | Warung Makan Berkah             | ± 5 tahun | Mahasiswa dosen, dan karyawan | Air keran kurang/debit air kecil.| 
+|3. | Fotocopy Mitra Buana            | Sejak 2009 | Mahasiswa dan dosen | Listrik dapat mati hingga beberapa jam.|
+|4. | Mie RR                          | ± 2 tahun | Mahasiswa | Air keran sering habis dan distribusi air tidak merata.|
+|5. | Dapur Selera Mamah Ria          | ± 6 bulan | Mahasiswa, dosen, dan karyawan | Air keran kecil dan kenaikan harga bahan baku.|
 
-Berdasarkan pemetaan tersebut, dapat dilihat bahwa manajemen Boeing dan FAA merupakan pihak yang memiliki pengaruh paling besar dalam pengambilan keputusan, sedangkan pilot, maskapai, penumpang, dan masyarakat merupakan pihak yang paling terdampak apabila terjadi kegagalan sistem. Hal ini menunjukkan pentingnya setiap pihak yang memiliki kewenangan untuk mengutamakan keselamatan, transparansi, dan tanggung jawab dalam pengembangan maupun pengawasan sistem safety-critical.
-
----
-
-## 4. ANALISIS EMPAT TEORI ETIKA
-
-Etika umum digunakan untuk menilai apakah suatu tindakan benar atau salah berdasarkan prinsip rasional. Berikut merupakan empat analisis teori etika:
-
-### 4.1 Utilitarianisme (Konsekuensialisme)
-
-Utilitarianisme merupakan teori etika yang dikemukakan oleh Jeremy Bentham dan dikembangkan oleh John Stuart Mill, yang menyatakan bahwa suatu tindakan dianggap benar apabila menghasilkan manfaat terbesar bagi sebanyak mungkin orang.
-
-Pada awal pengembangannya, Boeing berupaya mempertahankan daya saing terhadap Airbus melalui peluncuran Boeing 737 MAX tanpa memerlukan pelatihan simulator tambahan bagi pilot. Strategi tersebut diharapkan memberikan manfaat ekonomi berupa penghematan biaya pelatihan dan percepatan adopsi pesawat oleh maskapai.
-
-Namun, keputusan tersebut justru menghasilkan dampak yang jauh lebih besar berupa hilangnya 346 nyawa, kerugian finansial miliaran dolar, penurunan kepercayaan publik terhadap industri penerbangan, serta penghentian operasi seluruh armada Boeing 737 MAX di berbagai negara.
-
-Dengan demikian, apabila dilihat dari perspektif utilitarianisme, dampak negatif yang ditimbulkan jauh lebih besar dibandingkan manfaatnya. Oleh karena itu, tindakan tersebut dapat dinilai tidak etis.
-
-### 4.2 Deontologi (Etika Kewajiban)
-
-Deontologi merupakan teori etika yang dikemukakan oleh Immanuel Kant, yang menyatakan bahwa suatu tindakan dinilai benar apabila sesuai dengan kewajiban moral dan prinsip universal, tanpa bergantung pada hasil akhir.
-
-Sebagai perusahaan yang mengembangkan sistem keselamatan penerbangan, Boeing memiliki kewajiban moral untuk:
-
-- Mengembangkan sistem yang aman,
-- Memberikan informasi yang jujur kepada pengguna,
-- Melakukan pengujian secara menyeluruh,
-- Mengutamakan keselamatan publik.
-
-Fakta bahwa informasi mengenai MCAS tidak disampaikan secara memadai kepada pilot menunjukkan adanya pelanggaran terhadap kewajiban moral tersebut. Oleh karena itu, dari sudut pandang deontologi, tindakan tersebut tidak dapat dibenarkan.
-
-### 4.3 Virtue Ethics (Etika Kebajikan)
-
-Etika kebajikan yang dikembangkan Aristoteles menilai tindakan berdasarkan karakter moral dan kebajikan individu, seperti tanggung jawab, integritas, kejujuran, dan kehati-hatian.
-
-Dalam kasus ini, keputusan yang diambil menunjukkan kurangnya sifat kehati-hatian (prudence), tanggung jawab (responsibility), kejujuran (honesty), dan integritas (integrity). Seorang profesional di bidang rekayasa perangkat lunak seharusnya lebih mengutamakan keselamatan pengguna dibandingkan kepentingan bisnis jangka pendek.
-
-Dengan demikian, tindakan yang dilakukan tidak mencerminkan karakter profesional yang beretika.
-
-### 4.4 Etika Hak/Kontraktarian
-
-Teori hak menyatakan bahwa setiap individu memiliki hak yang harus dihormati oleh pihak lain.
-
-Dalam konteks ini:
-
-- Pilot memiliki hak memperoleh informasi yang lengkap mengenai sistem yang mereka operasikan.
-- Penumpang memiliki hak atas keselamatan selama menggunakan layanan transportasi udara.
-- Maskapai memiliki hak memperoleh produk yang aman dan sesuai spesifikasi.
-
-Kurangnya transparansi mengenai cara kerja MCAS mengurangi kemampuan pilot dalam mengambil keputusan saat menghadapi kondisi darurat. Oleh karena itu, tindakan Boeing dapat dinilai melanggar hak-hak para pemangku kepentingan tersebut.
+Secara umum, proses penjualan pada usaha-usaha tersebut dapat berjalan dengan baik. Permasalahan yang paling sering muncul berkaitan dengan fasilitas pendukung, terutama air keran.
 
 ---
 
-## 5. LENSA KELIMA - PANCASILA
-### 5.1 Analisis Sila 1–5
+## 4. Analisis Permasalahan Air
+
+Berdasarkan jawaban pemilik usaha, permasalahan air yang ditemukan meliputi:
+
+Air keran terkadang habis.
+Debit air yang keluar kecil.
+Air tidak cukup untuk mencuci piring dan peralatan.
+Beberapa kantin menggunakan sumber air yang sama.
+Ketika beberapa kantin menggunakan air secara bersamaan, debit air dapat menjadi lebih kecil.
+Terdapat kemungkinan bahwa kapasitas pompa dan sistem distribusi belum mampu memenuhi kebutuhan seluruh kantin secara bersamaan.
+
+Permasalahan tersebut cukup penting karena air digunakan untuk kegiatan operasional sehari-hari, seperti:
+
+Mencuci piring.
+Mencuci peralatan memasak.
+Membersihkan area kantin.
+Menjaga kebersihan peralatan makan.
+Mendukung kegiatan operasional kantin.
+
+Apabila debit air terlalu kecil, kegiatan mencuci dan membersihkan peralatan dapat menjadi lebih lambat dan mengganggu kegiatan operasional.
+
+---
+
+## 5. Kemungkinan Penyebab Permasalahan
+### 5.1 Kapasitas Tangki Air Tidak Mencukupi
 
 ### Sila 1 – Ketuhanan Yang Maha Esa
 Setiap profesi rekayasa membawa amanah moral untuk tidak menyalahgunakan ilmu pengetahuan demi keuntungan yang mengorbankan nyawa manusia. Keputusan merilis MCAS tanpa validasi ganda sensor dan tanpa transparansi kepada pilot bertentangan dengan nilai keluhuran budi yang menjadi dasar tanggung jawab profesional di hadapan Tuhan dan sesama manusia.
