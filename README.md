@@ -57,84 +57,22 @@ Gangguan listrik pada usaha fotocopy.
 
 Dari berbagai permasalahan tersebut, ketersediaan dan distribusi air menjadi salah satu permasalahan yang ditemukan pada beberapa kantin dan dapat dianalisis lebih lanjut dari sudut pandang Teknik Informatika.
 
-### 1.2 Kronologi Peristiwa
-
-29 Oktober 2018 – Lion Air JT610
-
-- Pesawat lepas landas dari Bandara Soekarno-Hatta menuju Pangkal Pinang.
-- Beberapa menit setelah lepas landas, sensor AoA memberikan data yang salah.
-- MCAS aktif berulang kali dan terus menurunkan hidung pesawat.
-- Pilot beberapa kali menarik kendali untuk menaikkan hidung pesawat, tetapi MCAS kembali aktif.
-- Sekitar 13 menit setelah lepas landas, pesawat jatuh di Laut Jawa.
-- Seluruh 189 orang di dalam pesawat meninggal dunia.
-
-10 Maret 2019 – Ethiopian Airlines ET302
-
-- Pesawat lepas landas dari Addis Ababa menuju Nairobi.
-- Tidak lama setelah lepas landas, pilot melaporkan kesulitan mengendalikan pesawat.
-- MCAS kembali aktif akibat pembacaan sensor AoA yang tidak akurat.
-- Pilot meminta izin kembali ke bandara, tetapi kehilangan kendali atas pesawat.
-- Sekitar 6 menit setelah lepas landas, pesawat jatuh di dekat Bishoftu.
-- Seluruh 157 orang di dalam pesawat meninggal dunia.
-
-Kemudian dilanjutkan dengan:
-
-- 13 Maret 2019: seluruh armada Boeing 737 MAX ditunda atau dilarang terbang.
-- 2020: Boeing memperbarui perangkat lunak MCAS agar menggunakan dua sensor AoA dan membatasi aktivasi sistem.
-- 2024: Departemen Kehakiman Amerika Serikat kembali memproses perkara hukum terhadap Boeing terkait pelanggaran perjanjian.
-
-### 1.3 Konteks Teknis
-
-MCAS merupakan bagian dari Flight Control System yang bekerja secara otomatis ketika:
-
-- Flaps berada pada posisi naik.
-- Autopilot tidak aktif.
-- Sensor AoA mendeteksi sudut serang tinggi.
-
-Pada versi awal, MCAS memiliki beberapa kelemahan utama, yaitu:
-
-- hanya menggunakan satu sensor AoA sebagai sumber data,
-- tidak melakukan validasi silang terhadap sensor lainnya,
-- dapat aktif berulang kali apabila data sensor tetap menunjukkan kondisi stall,
-- informasi mengenai keberadaan dan cara kerja MCAS tidak dijelaskan secara memadai dalam Flight Crew Operations Manual (FCOM),
-- pilot tidak memperoleh pelatihan khusus mengenai karakteristik MCAS.
-
-Kelemahan tersebut menyebabkan sistem memiliki single point of failure, yaitu kondisi ketika kegagalan satu komponen saja dapat menyebabkan kegagalan keseluruhan sistem.
-
 ---
 
-## 2. FAKTA KUNCI & CATATAN TRANSPARANSI
+## 2. Tujuan 
 
 Dalam menganalisis suatu kasus etika profesi, penting untuk membedakan antara fakta yang telah dibuktikan melalui investigasi resmi dengan informasi yang masih berupa dugaan atau sedang diproses secara hukum.
 
-### 2.1 Fakta yang Telah Terverifikasi
+Kuesioner ini memiliki beberapa tujuan, yaitu:
 
-Berdasarkan laporan KNKT, FAA, NTSB, dan Departemen Kehakiman Amerika Serikat, fakta-fakta berikut telah terverifikasi:
-
-- Lion Air JT610 mengalami kecelakaan pada 29 Oktober 2018 dengan korban sebanyak 189 orang.
-- Ethiopian Airlines ET302 mengalami kecelakaan pada 10 Maret 2019 dengan korban sebanyak 157 orang.
-- Total korban jiwa dari kedua kecelakaan mencapai 346 orang.
-- MCAS menggunakan data dari satu sensor AoA pada desain awal.
-- Sensor AoA pada Lion Air JT610 memberikan data yang salah sebelum dan selama penerbangan.
-- MCAS aktif berulang kali berdasarkan data sensor yang salah.
-- Informasi mengenai MCAS tidak dijelaskan secara lengkap kepada sebagian besar pilot maupun maskapai.
-- Setelah investigasi selesai, Boeing memperbarui perangkat lunak MCAS sehingga menggunakan dua sensor AoA dan membatasi aktivasi sistem.
-
-### 2.2 Informasi yang Masih Diperdebatkan
-
-Beberapa informasi berikut masih menjadi bagian dari proses hukum atau analisis publik sehingga tidak dapat dinyatakan sebagai fakta yang telah terbukti secara final.
-
-- Dugaan bahwa tekanan persaingan dengan Airbus memengaruhi keputusan teknis dalam pengembangan 737 MAX.
-- Dugaan bahwa proses sertifikasi dilakukan terlalu cepat.
-- Dugaan adanya pengaruh Boeing terhadap sebagian proses evaluasi regulator.
-- Dugaan bahwa peringatan dari beberapa engineer tidak ditindaklanjuti secara memadai oleh manajemen.
-
-### 2.3 Catatan Transparansi
-
-Dalam laporan ini, seluruh analisis etika didasarkan pada fakta yang telah dipublikasikan melalui laporan resmi KNKT, FAA, NTSB, dan dokumen Departemen Kehakiman Amerika Serikat. Sementara itu, informasi yang masih berupa dugaan tidak dijadikan dasar utama dalam penarikan kesimpulan, melainkan hanya digunakan sebagai konteks untuk memahami proses pengambilan keputusan organisasi.
-
-Pendekatan ini bertujuan menjaga objektivitas analisis dan menghindari penyampaian informasi yang belum memiliki kepastian hukum.
-
+1. Mengetahui jenis usaha dan produk yang dijual oleh pemilik kantin.
+2. Mengetahui pelanggan utama dari masing-masing usaha.
+3. Mengetahui proses penjualan dan pelayanan kepada pelanggan.
+Mengetahui cara pemilik usaha mengelola stok barang dan bahan baku.
+Mengidentifikasi kendala yang terjadi dalam kegiatan operasional.
+Mengidentifikasi permasalahan fasilitas yang digunakan oleh kantin.
+Menganalisis permasalahan yang dapat dikembangkan menjadi kebutuhan sistem berbasis Teknologi Informasi.
+Memberikan rekomendasi awal berupa kemungkinan solusi teknologi terhadap permasalahan yang ditemukan.
 ---
 
 ## 3. PEMETAAN PEMANGKU KEPENTINGAN
