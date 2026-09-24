@@ -1,13 +1,14 @@
-# LAPORAN UAS ETIKA PROFESI - KELOMPOK 09  
-## Analisis Kasus: Boeing 737 MAX MCAS - Kegagalan Software pada Sistem Kritis
+# LAPORAN UAS KEWIRAUSAHAAN - KELOMPOK 06  
 
-Dokumen ini disusun untuk memenuhi **Laporan UAS Mata Kuliah Etika Profesi (A)**.
+Dokumen ini disusun untuk memenuhi **Laporan TUGAS Mata Kuliah Kewirausahaan (B)**.
 
 ---
+# KUESIONER PEMILIK USAHA KANTIN FEB
+##
 
 ## Informasi Akademik
 - **Dosen Pengampu**: Adi Wahyu Pribadi, S.Si., M.Kom  
-- **Instansi**: Universitas Pancasila, Fakultas Teknik, S1 Teknik Informatika  
+- **Instansi**: Universitas Pancasila, Fakultas Teknik, S1 Teknik Informatika  Universitas Pancasila – Fakultas Teknik – Program Studi Teknik Informatika
 - **Tahun**: 2026  
 
 ---
