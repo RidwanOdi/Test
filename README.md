@@ -12,7 +12,17 @@ Dokumen ini disusun untuk memenuhi **Laporan TUGAS Mata Kuliah Kewirausahaan (B)
 - **Tahun**: 2026  
 
 ---
+Berdasarkan hasil kuesioner terhadap beberapa pemilik usaha, diperoleh beberapa informasi mengenai kondisi usaha.
 
+Usaha	Lama Usaha	Pelanggan Utama	Permasalahan yang Ditemukan
+Kantin Risol Sovina	Tidak disebutkan	Mahasiswa	Kekurangan air keran untuk mencuci piring dan keperluan lainnya
+Warung Makan Berkah	± 5 tahun	Mahasiswa, dosen, dan karyawan	Air keran kurang/debit air kecil
+Fotocopy Mitra Buana	Sejak 2009	Mahasiswa dan dosen	Listrik dapat mati hingga beberapa jam
+Mie RR	± 2 tahun	Mahasiswa	Air keran sering habis dan distribusi air tidak merata
+Dapur Selera Mamah Ria	± 6 bulan	Mahasiswa, dosen, dan karyawan	Air keran kecil dan kenaikan harga bahan baku
+
+Secara umum, proses penjualan pada usaha-usaha tersebut dapat berjalan dengan baik. Permasalahan yang paling sering muncul berkaitan dengan fasilitas pendukung, terutama air keran.
+---
 ## Anggota Kelompok-09
 
 | Nama                        | NPM        | Peran                     |
