@@ -41,8 +41,11 @@ Dokumen ini disusun untuk memenuhi **Laporan TUGAS Mata Kuliah Kewirausahaan (B)
 
 ## 1. Pendahuluan
 Kuesioner ini dilakukan untuk mengetahui kondisi usaha dan permasalahan yang dihadapi oleh pemilik usaha kantin di lingkungan Fakultas Ekonomi dan Bisnis Universitas Pancasila.
+
 Kegiatan ini dilakukan oleh mahasiswa Program Studi Teknik Informatika, Fakultas Teknik, Universitas Pancasila. Oleh karena itu, hasil kuesioner tidak hanya digunakan untuk mengetahui kondisi usaha kantin, tetapi juga untuk mengidentifikasi permasalahan yang dapat dikembangkan menjadi solusi berbasis Teknologi Informasi.
+
 Berdasarkan hasil kuesioner dari beberapa pemilik usaha, sebagian besar kegiatan operasional kantin seperti penjualan, pengelolaan stok, dan penggunaan kemasan dapat berjalan dengan baik.
+
 Namun, ditemukan beberapa permasalahan yang muncul pada beberapa usaha, seperti:
 
 Ketersediaan air keran yang tidak mencukupi.
