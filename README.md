@@ -116,21 +116,27 @@ Apabila debit air terlalu kecil, kegiatan mencuci dan membersihkan peralatan dap
 
 ## 5. Kemungkinan Penyebab Permasalahan
 ### 5.1 Kapasitas Tangki Air Tidak Mencukupi
+Salah satu kemungkinan adalah kapasitas penampungan air yang tersedia belum mencukupi kebutuhan seluruh kantin.
 
-### Sila 1 – Ketuhanan Yang Maha Esa
-Setiap profesi rekayasa membawa amanah moral untuk tidak menyalahgunakan ilmu pengetahuan demi keuntungan yang mengorbankan nyawa manusia. Keputusan merilis MCAS tanpa validasi ganda sensor dan tanpa transparansi kepada pilot bertentangan dengan nilai keluhuran budi yang menjadi dasar tanggung jawab profesional di hadapan Tuhan dan sesama manusia.
+Jika banyak kantin menggunakan air secara bersamaan, persediaan air di dalam tangki dapat berkurang lebih cepat.
 
-### Sila 2 – Kemanusiaan yang Adil dan Beradab
-Sila ini menuntut penghormatan terhadap harkat dan martabat manusia. Hilangnya 346 nyawa akibat kegagalan sistem yang seharusnya dapat dicegah menunjukkan pengabaian terhadap nilai kemanusiaan. Keselamatan penumpang dikorbankan demi efisiensi biaya pelatihan dan kecepatan sertifikasi.
+Salah satu solusi fasilitas yang dapat dipertimbangkan adalah:
 
-### Sila 3 – Persatuan Indonesia
-Meskipun kasus ini terjadi pada ranah internasional, dampaknya dirasakan langsung oleh Indonesia melalui kecelakaan Lion Air JT610. Sila ini menegaskan pentingnya solidaritas, perlindungan negara terhadap warganya, serta peran KNKT sebagai representasi kedaulatan investigasi nasional.
+Menambahkan satu tangki air sebagai penampungan tambahan/cadangan.
 
-### Sila 4 – Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan dalam Permusyawaratan/Perwakilan
-Sila ini menekankan pentingnya pengambilan keputusan melalui musyawarah dengan mempertimbangkan masukan seluruh pihak, termasuk engineer yang memahami risiko teknis. Dugaan diabaikannya peringatan teknis menunjukkan lemahnya penerapan prinsip musyawarah.
+Dengan adanya tangki tambahan, jumlah air yang dapat disimpan menjadi lebih besar sehingga dapat membantu memenuhi kebutuhan pada saat penggunaan air meningkat.
+### 5.2 Kapasitas Pompa Air
+Kemungkinan kedua adalah kapasitas pompa belum sesuai dengan jumlah kantin yang menggunakan air.
 
-### Sila 5 – Keadilan Sosial bagi Seluruh Rakyat Indonesia
-Teknologi seharusnya memberikan manfaat secara adil tanpa mengorbankan keselamatan pihak lain. Dalam kasus MCAS, keuntungan ekonomi lebih banyak dinikmati perusahaan, sedangkan risiko ditanggung oleh pilot dan penumpang sehingga mencerminkan ketidakadilan sosial.
+Apabila banyak kantin menggunakan air secara bersamaan, tekanan dan debit air yang diterima oleh setiap kantin dapat mengalami penurunan.
+### 5.3 Distribusi Air Tidak Memadai
+Kemungkinan lainnya adalah sistem distribusi air belum dapat memberikan debit yang merata kepada seluruh kantin.
+
+Berdasarkan keterangan pemilik usaha, terdapat kondisi ketika beberapa kantin menggunakan air secara bersamaan dan kantin lain mendapatkan air dengan debit yang lebih kecil atau bahkan tidak mendapatkan air.
+
+Terdapat dugaan bahwa kondisi tersebut dapat terjadi ketika lebih dari sekitar lima kantin menggunakan air secara bersamaan.
+
+Namun, angka tersebut masih merupakan informasi berdasarkan pengalaman pemilik usaha, bukan hasil pengukuran teknis. Oleh karena itu, diperlukan pengukuran langsung untuk memastikan penyebabnya.
 
 ---
 
