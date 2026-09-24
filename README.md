@@ -79,9 +79,9 @@ Kuesioner ini memiliki beberapa tujuan, yaitu:
 
 Kasus Boeing 737 MAX melibatkan berbagai pihak dengan kepentingan, peran, dampak yang diterima, dan relasi kuasa.
 
-|No | Pemangku Kepentingan                     | Peran/Kontribusi|  Dampak yang Diterima| Relasi Kuasa|
+|No | Usaha                     | Lama Usaha |  Pelanggan Utama | Permasalahan yang Ditemukan |
 |---|------------------------------------------|------------|---------------------------|------------|
-|1. | Eksekutif & Manajemen Boeing             | Mengambil keputusan utama terkait pengembangan dan pemasaran Boeing 737 MAX, termasuk menentukan target waktu produksi.| Mengalami penurunan reputasi, menghadapi tuntutan hukum, serta mengalami kerugian finansial yang sangat besar.| Sangat Tinggi. Memiliki wewenang untuk menentukan kebijakan perusahaan dan memengaruhi keputusan tim engineering.|
+|1. | Kantin Risol Sovina             | ± 2 tahun | Mahasiswa | Kekurangan air keran untuk mencuci piring dan keperluan lainnya.|
 |2. | Software Engineers & Developer Boeing    | Merancang dan mengembangkan perangkat lunak MCAS agar pesawat dapat beroperasi sesuai desain.| Menghadapi tekanan profesional, pemeriksaan hukum, dan tanggung jawab moral atas sistem yang dikembangkan.| Sedang. Memiliki pengetahuan teknis, tetapi keputusan akhir tetap berada di tangan manajemen.|
 |3. | Federal Aviation Administration (FAA)    | Bertugas mengawasi dan memberikan sertifikasi kelayakan pesawat sebelum digunakan secara komersial.| Mendapat kritik karena dianggap kurang teliti dalam proses pengawasan dan sertifikasi Boeing 737 MAX.| TTinggi. Memiliki kewenangan untuk menyetujui atau menolak sertifikasi pesawat, sehingga berperan penting dalam menjamin keselamatan penerbangan.|
 |4. | Pilot dan Maskapai (Lion Air & Ethiopian)| Mengoperasikan pesawat dan menggunakan sistem MCAS dalam penerbangan sehari-hari.| Kehilangan kru dan pesawat, mengalami kerugian finansial, serta menurunnya kepercayaan masyarakat terhadap maskapai.| Rendah. Bergantung pada informasi dan pelatihan yang diberikan oleh Boeing serta regulator mengenai sistem pesawat.|
