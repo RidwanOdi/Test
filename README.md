@@ -46,7 +46,7 @@ Dokumen ini disusun untuk memenuhi **Laporan TUGAS Mata Kuliah Kewirausahaan (B)
  - Status pompa
  - Debit air
  - Kondisi distribusi
-
+--
 ## Pemetaan Sub-CPMK
 
 | Sub-CPMK | Cakupan dalam Laporan |
