@@ -22,7 +22,7 @@
 # Cakupan dalam Laporan
 
 | Sub-CPMK | Cakupan dalam Laporan |
-|---|---|
+|----|----|
 | **Sub-CPMK 1** | Identifikasi kondisi dan karakteristik usaha berdasarkan hasil kuesioner. |
 | **Sub-CPMK 2** | Pengumpulan informasi mengenai produk, pelanggan, proses penjualan, dan kegiatan operasional usaha. |
 | **Sub-CPMK 3** | Identifikasi permasalahan yang dihadapi pemilik usaha, khususnya permasalahan ketersediaan dan distribusi air. |
