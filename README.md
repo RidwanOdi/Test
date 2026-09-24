@@ -24,31 +24,7 @@ Dokumen ini disusun untuk memenuhi **Laporan TUGAS Mata Kuliah Kewirausahaan (B)
 | Alwan Fawwaz Ibrahim        | 4525210010 |                           |
 
 ---
-       TANGKI AIR
-           │
-           ▼
-     SENSOR VOLUME
-       TANGKI AIR
-           │
-           ▼
-     SENSOR VOLUME
-           │
-           ▼
-     MIKROKONTROLER
-           │
-           ▼
-      SISTEM MONITORING
-           │
-     ┌─────┴─────┐
-     ▼           ▼
- Dashboard    Notifikasi
-     │
-     ▼
- Informasi:
- - Volume air
- - Status pompa
- - Debit air
- - Kondisi distribusi
+
 --
 ## Pemetaan Sub-CPMK
 
