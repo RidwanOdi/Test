@@ -38,7 +38,7 @@ Dokumen ini disusun untuk memenuhi **Laporan TUGAS Mata Kuliah Kewirausahaan (B)
            │
      ┌─────┴─────┐
      ▼           ▼
- Dashboard    Notifikasi
+Dashboard    Notifikasi
      │
      ▼
  Informasi:
