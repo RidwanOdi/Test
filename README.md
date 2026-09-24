@@ -25,6 +25,28 @@ Dokumen ini disusun untuk memenuhi **Laporan TUGAS Mata Kuliah Kewirausahaan (B)
 
 ---
 
+       TANGKI AIR
+           │
+           ▼
+     SENSOR VOLUME
+           │
+           ▼
+     MIKROKONTROLER
+           │
+           ▼
+      SISTEM MONITORING
+           │
+     ┌─────┴─────┐
+     ▼           ▼
+ Dashboard    Notifikasi
+     │
+     ▼
+ Informasi:
+ - Volume air
+ - Status pompa
+ - Debit air
+ - Kondisi distribusi
+
 ## Pemetaan Sub-CPMK
 
 | Sub-CPMK | Cakupan dalam Laporan |
