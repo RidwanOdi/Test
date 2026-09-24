@@ -68,11 +68,11 @@ Kuesioner ini memiliki beberapa tujuan, yaitu:
 1. Mengetahui jenis usaha dan produk yang dijual oleh pemilik kantin.
 2. Mengetahui pelanggan utama dari masing-masing usaha.
 3. Mengetahui proses penjualan dan pelayanan kepada pelanggan.
-Mengetahui cara pemilik usaha mengelola stok barang dan bahan baku.
-Mengidentifikasi kendala yang terjadi dalam kegiatan operasional.
-Mengidentifikasi permasalahan fasilitas yang digunakan oleh kantin.
-Menganalisis permasalahan yang dapat dikembangkan menjadi kebutuhan sistem berbasis Teknologi Informasi.
-Memberikan rekomendasi awal berupa kemungkinan solusi teknologi terhadap permasalahan yang ditemukan.
+4. Mengetahui cara pemilik usaha mengelola stok barang dan bahan baku.
+5. Mengidentifikasi kendala yang terjadi dalam kegiatan operasional.
+6. Mengidentifikasi permasalahan fasilitas yang digunakan oleh kantin.
+7. Menganalisis permasalahan yang dapat dikembangkan menjadi kebutuhan sistem berbasis Teknologi Informasi.
+8. Memberikan rekomendasi awal berupa kemungkinan solusi teknologi terhadap permasalahan yang ditemukan.
 ---
 
 ## 3. PEMETAAN PEMANGKU KEPENTINGAN
