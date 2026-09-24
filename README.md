@@ -246,3 +246,23 @@ Berdasarkan keterangan pemilik usaha, terdapat kemungkinan bahwa permasalahan te
 Salah satu solusi fasilitas yang dapat dipertimbangkan adalah penambahan satu tangki air sebagai penampungan tambahan. Namun, sebelum menentukan solusi akhir, diperlukan pemeriksaan dan pengukuran terhadap kapasitas tangki, pompa, debit air, tekanan, serta sistem perpipaan.
 
 Dari sudut pandang Teknik Informatika, permasalahan tersebut memiliki potensi untuk dikembangkan menjadi Sistem Monitoring Ketersediaan dan Distribusi Air Berbasis IoT. Sistem dapat menggunakan sensor dan mikrokontroler untuk memperoleh data mengenai volume air, status pompa, debit air, dan kondisi distribusi. Data tersebut kemudian dapat ditampilkan melalui dashboard serta digunakan untuk memberikan notifikasi apabila terjadi kondisi tertentu.
+
+
+```mermaid
+flowchart TD
+    A[Tangki Air] --> B[Sensor Volume]
+    A --> C[Sensor Debit Air]
+
+    B --> D[Mikrokontroler]
+    C --> D
+
+    D --> E[Sistem Monitoring]
+
+    E --> F[Dashboard]
+    E --> G[Notifikasi]
+
+    F --> H[Volume Air]
+    F --> I[Status Pompa]
+    F --> J[Debit Air]
+    F --> K[Kondisi Distribusi]
+```
