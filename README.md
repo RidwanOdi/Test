@@ -1,10 +1,10 @@
-# LAPORAN UAS KEWIRAUSAHAAN - KELOMPOK 06  
+# LAPORAN TUGAS KEWIRAUSAHAAN - KELOMPOK 06  
 
 Dokumen ini disusun untuk memenuhi **Laporan TUGAS Mata Kuliah Kewirausahaan (B)**.
 
 ---
 # KUESIONER PEMILIK USAHA KANTIN FEB
-##
+## Analisis Permasalahan Operasional Kantin sebagai Dasar Perancangan Solusi Teknologi Informasi
 
 ## Informasi Akademik
 - **Dosen Pengampu**: Adi Wahyu Pribadi, S.Si., M.Kom  
@@ -17,32 +17,28 @@ Dokumen ini disusun untuk memenuhi **Laporan TUGAS Mata Kuliah Kewirausahaan (B)
 
 | Nama                        | NPM        | Peran                     |
 |-----------------------------|------------|---------------------------|
-| Ridwan Odi Nugroho          | 4524210089 | Menyusun Poin 1, 10 dan 11|
-| Ririn Verdawati             | 4524210090 | Menyusun Poin 8 dan 9     |
-| Nur Inayah Yusrizal         | 4524210117 | Menyusun Poin 5, 6 dan 7  |
-| Maria Natalia Alyssa Beli   | 4524210133 | Menyusun Poin 2, 3 dan 4  |
+| Anggun Setiawati Dewi       | 4523210019 |                           |
+| Ridwan Odi Nugroho          | 4524210089 |                           |
+| Zaidan Dziaulfawwaz         | 4524210105 |                           |
+| Adystya Anandita            | 4525210003 |                           |
+| Alwan Fawwaz Ibrahim        | 4525210010 |                           |
 
 ---
 
 ## Pemetaan Sub-CPMK
 
 | Sub-CPMK | Cakupan dalam Laporan |
-|-----------|------------------------|
-| **Sub-CPMK 1** | Analisis dilema etika menggunakan teori filsafat moral (Utilitarianisme, Deontologi, Virtue Ethics, dan Etika Hak) serta kode etik ACM dan IEEE. |
-| **Sub-CPMK 2** | Evaluasi kepatuhan terhadap regulasi hukum, HKI, UU ITE, UU Perlindungan Konsumen, UU Penerbangan, dan standar industri penerbangan. |
-| **Sub-CPMK 3** | Analisis dampak sosial akibat kecelakaan Boeing 737 MAX terhadap penumpang, maskapai, industri penerbangan, serta kepercayaan masyarakat. |
-| **Sub-CPMK 4** | Evaluasi risiko etis menggunakan kerangka ISO 31000 dan strategi penanganan risiko (4T: Treat, Transfer, Terminate, Tolerate). |
-| **Sub-CPMK 5** | Analisis potensi penyalahgunaan kewenangan, konflik kepentingan, integritas organisasi, dan mekanisme *whistleblowing*. |
-| **Sub-CPMK 7** | Perumusan strategi mitigasi risiko etika dan kontrol preventif untuk mencegah terulangnya kasus serupa. |
-| **Sub-CPMK 8** | Penyampaian hasil investigasi melalui video presentasi yang diunggah ke YouTube. |
-| **Sub-CPMK 9** | Refleksi mengenai pentingnya etika profesi, integritas, dan tanggung jawab sebagai calon profesional di bidang teknologi informasi. |
+|---|---|
+| **Sub-CPMK 1** | Identifikasi kondisi dan karakteristik usaha kantin berdasarkan hasil kuesioner. |
+| **Sub-CPMK 2** | Pengumpulan informasi mengenai produk, pelanggan, proses penjualan, dan kegiatan operasional kantin. |
+| **Sub-CPMK 3** | Identifikasi permasalahan yang dihadapi pemilik usaha, khususnya ketersediaan dan distribusi air. |
+| **Sub-CPMK 4** | Analisis kebutuhan berdasarkan permasalahan yang ditemukan. |
+| **Sub-CPMK 5** | Perumusan kemungkinan solusi berbasis Teknologi Informasi. |
+| **Sub-CPMK 7** | Rekomendasi pengembangan sistem monitoring menggunakan sensor, database, dan dashboard. |
+| **Sub-CPMK 8** | Dokumentasi dan penyajian hasil kuesioner melalui laporan dan GitHub. |
+| **Sub-CPMK 9** | Refleksi peran mahasiswa Teknik Informatika dalam mengidentifikasi masalah nyata dan merancang solusi teknologi. |
 
 ---
-
-## Tautan Video Presentasi
-https://youtu.be/TP27HHaoTqw?si=OkMUYHoYTe_dgqBb
-
-----
 
 ## 1. KRONOLOGI & KONTEKS
 
