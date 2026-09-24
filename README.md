@@ -24,28 +24,6 @@ Dokumen ini disusun untuk memenuhi **Laporan TUGAS Mata Kuliah Kewirausahaan (B)
 | Alwan Fawwaz Ibrahim        | 4525210010 |                           |
 
 ---
-       TANGKI AIR
-           │
-           ▼
-     SENSOR VOLUME
-           │
-           ▼
-     MIKROKONTROLER
-           │
-           ▼
-      SISTEM MONITORING
-           │
-     ┌─────┴─────┐
-     ▼           ▼
- Dashboard    Notifikasi
-     │
-     ▼
- Informasi:
- - Volume air
- - Status pompa
- - Debit air
- - Kondisi distribusi
----
 ## Pemetaan Sub-CPMK
 
 | Sub-CPMK | Cakupan dalam Laporan |
@@ -61,15 +39,20 @@ Dokumen ini disusun untuk memenuhi **Laporan TUGAS Mata Kuliah Kewirausahaan (B)
 
 ---
 
-## 1. KRONOLOGI & KONTEKS
+## 1. Pendahuluan
+Kuesioner ini dilakukan untuk mengetahui kondisi usaha dan permasalahan yang dihadapi oleh pemilik usaha kantin di lingkungan Fakultas Ekonomi dan Bisnis Universitas Pancasila.
+Kegiatan ini dilakukan oleh mahasiswa Program Studi Teknik Informatika, Fakultas Teknik, Universitas Pancasila. Oleh karena itu, hasil kuesioner tidak hanya digunakan untuk mengetahui kondisi usaha kantin, tetapi juga untuk mengidentifikasi permasalahan yang dapat dikembangkan menjadi solusi berbasis Teknologi Informasi.
+Berdasarkan hasil kuesioner dari beberapa pemilik usaha, sebagian besar kegiatan operasional kantin seperti penjualan, pengelolaan stok, dan penggunaan kemasan dapat berjalan dengan baik.
+Namun, ditemukan beberapa permasalahan yang muncul pada beberapa usaha, seperti:
 
-### 1.1 Latar Belakang
+Ketersediaan air keran yang tidak mencukupi.
+Debit air yang kecil.
+Air keran yang terkadang habis.
+Kenaikan harga bahan baku.
+Kenaikan harga plastik.
+Gangguan listrik pada usaha fotocopy.
 
-Kasus Boeing 737 MAX merupakan salah satu kegagalan rekayasa perangkat lunak (software engineering failure) terbesar dalam sejarah penerbangan modern. Kasus ini menjadi perhatian dunia setelah terjadinya dua kecelakaan fatal yang melibatkan Lion Air JT610 pada 29 Oktober 2018 dan Ethiopian Airlines ET302 pada 10 Maret 2019, yang mengakibatkan total 346 korban jiwa. Peristiwa tersebut memicu investigasi mendalam terhadap aspek teknis, proses sertifikasi, serta penerapan etika dan tanggung jawab profesional dalam pengembangan sistem keselamatan penerbangan.
-
-Salah satu fokus utama investigasi adalah Maneuvering Characteristics Augmentation System (MCAS), yaitu perangkat lunak yang dirancang untuk membantu menjaga karakteristik aerodinamis Boeing 737 MAX akibat penggunaan mesin CFM LEAP-1B yang lebih besar dibandingkan seri sebelumnya. Sistem ini bekerja dengan menggerakkan horizontal stabilizer secara otomatis untuk menurunkan hidung pesawat ketika sensor mendeteksi sudut serang (Angle of Attack/AoA) yang terlalu tinggi.
-
-Namun, berdasarkan hasil investigasi KNKT, FAA, dan NTSB, desain awal MCAS hanya menggunakan satu sensor AoA sebagai sumber data tanpa validasi silang. Ketika sensor tersebut memberikan data yang salah, MCAS menganggap pesawat berada dalam kondisi stall dan secara berulang menurunkan hidung pesawat hingga pilot kehilangan kendali. Selain itu, informasi mengenai cara kerja MCAS tidak disampaikan secara memadai kepada pilot, sehingga kasus ini menjadi contoh penting mengenai pentingnya keselamatan, transparansi, etika profesi, dan manajemen risiko dalam pengembangan sistem safety-critical.
+Dari berbagai permasalahan tersebut, ketersediaan dan distribusi air menjadi salah satu permasalahan yang ditemukan pada beberapa kantin dan dapat dianalisis lebih lanjut dari sudut pandang Teknik Informatika.
 
 ### 1.2 Kronologi Peristiwa
 
